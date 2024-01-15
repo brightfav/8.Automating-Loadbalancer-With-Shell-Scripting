@@ -99,7 +99,7 @@ Next i run the script file using the code below
 
 ![run the script file](<img/8 run script file.png>)
 
-##### NOTE I REPEATED THE ABOVE STEPS FOR THE SECOND EC2 INSTANCE ALSO
+##### NOTE I REPEATED THE ABOVE STEPS FOR THE SECOND EC2 INSTANCE
  <br />
 
 ## STEP 2
