@@ -10,7 +10,7 @@
 
 ## Step 1
 <br />
-I started three Ec2 instance
+I created and started three Ec2 instance
 
 <br />
 
