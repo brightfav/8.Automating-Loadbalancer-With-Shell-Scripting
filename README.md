@@ -1,8 +1,12 @@
-# AUTOMATING LOADBALANCER WITH SHELL SCRIPTING
+# AUTOMATING LOADBALANCER WITH SHELL SCRIPTING<br />
+<br />
 
 ### Automate the deployment of webservers 
 
 ### Deploying and configuring webservers
+
+### Use of Nginx as a load balancer
+<br />
 
 ## Step 1
 <br />
